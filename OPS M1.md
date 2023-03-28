@@ -124,7 +124,18 @@ Your text should look like this:
 
 ![Escape](https://github.com/Ryder-37/Markdown-G6/blob/main/Markdown%20Images/Escape.png?raw=true)
 
+### *Custom Markdown extensions*
 
+Adobe articles use standard Markdown for most article formatting, such as paragraphs, links, lists, and headings. For richer formatting, articles can use extended Markdown features such as:
+
+* Note blocks
+* Embedded videos
+* Translation tags
+* Component properties, such as assigning a different heading ID to a heading and specifying an image size.
+  
+Use the Markdown block quote ( > ) at the beginning of every line to tie together an extended component, such as a note.
+
+Some common Markdown elements such as headings and code blocks include extended properties. If you need to change default properties, add the parameters in french braces /{ /} after the component. Extended properties are described in context.
 
 ## **Markdown Cheatsheets**
 
